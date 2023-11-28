@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am an IT professional with over 20 years of experience in the banking industry, with the last 8 years focused on working with the AWS platform. I have worked on numerous large-scale projects, including DST, CMS, and more. I hold AWS Professional Architect and Security certifications, demonstrating my deep knowledge and expertise in cloud technologies.
+I am an IT professional with over 20 years of experience in the banking industry, with the last 8 years focused on working with the AWS platform. I have worked on numerous crown jewel projects for banks, including the Portfolio Analytics Toolkit,  Portfolio Contribution and Attribution，Content Management System, and Digital Sales Tool (DST). 
 
-My favorite projects involve cloud migration and designing scalable architectures. I enjoy the challenge of transforming traditional IT infrastructure into highly scalable and resilient cloud-based systems. This not only optimizes performance but also significantly reduces costs and increases the agility of the organization.
+I hold AWS Professional Architect and Security certifications, demonstrating my deep knowledge and expertise in cloud technologies. My favorite projects involve cloud migration and designing scalable architectures. I enjoy the challenge of transforming traditional IT infrastructure into highly scalable and resilient cloud-based systems. This not only optimizes performance but also significantly reduces costs and increases the agility of the organization.
 
 Throughout my career, I have consistently demonstrated a strong ability to manage projects from conception to completion, and I have a proven track record of using innovative solutions to solve complex problems.
 
